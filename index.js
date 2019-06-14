@@ -1,5 +1,5 @@
 const Discord = require('discord.js')
-const bot = new Discord.Client()
+const bot = new Discord.Client(588685076527841290)
 var prefix = "/"
 
 bot.on('ready', function () {
@@ -317,4 +317,4 @@ bot.on('message', message => {
     }    
 })
 
-bot.login(process.env.TOKEN)
+bot.login(NTg4NzI0NjM4Njg3ODIxODM1.XQQOSg.GN4hPejkZIvBWqTU5GGccW25mqs)
